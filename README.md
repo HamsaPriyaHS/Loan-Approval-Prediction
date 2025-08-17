@@ -56,7 +56,7 @@ This project predicts whether a loan will be approved based on applicant details
 
 **Output:**  
 ```
-Loan Approved
+Loan Approved Or Loan Not Approved
 ```
 
 ---
